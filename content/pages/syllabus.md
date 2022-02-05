@@ -46,14 +46,75 @@ Goldstein, Herbert, John Safko, and Charles P. Poole. _Classical Mechanics_. Pea
 Course Outline
 --------------
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1–4 | Lagrangian Mechanics |
-| 5–6 | Conserved Quantities |
-| 7–10 | Orbits and Scattering |
-| 11–12 | Oscillations |
-| 13–14 | Tricky Potentials |
-| 15–19 | Hamiltonian Mechanics 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1–4
+{{< tdclose >}}
+{{< tdopen >}}
+Lagrangian Mechanics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5–6
+{{< tdclose >}}
+{{< tdopen >}}
+Conserved Quantities
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7–10
+{{< tdclose >}}
+{{< tdopen >}}
+Orbits and Scattering
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11–12
+{{< tdclose >}}
+{{< tdopen >}}
+Oscillations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13–14
+{{< tdclose >}}
+{{< tdopen >}}
+Tricky Potentials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15–19
+{{< tdclose >}}
+{{< tdopen >}}
+Hamiltonian Mechanics
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Assignments
 -----------
