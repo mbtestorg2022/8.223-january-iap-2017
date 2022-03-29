@@ -57,7 +57,7 @@ With m2 free to swing, using F = ma
 3
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PLA and Lagrangian Workflow (PDF)]({{< baseurl >}}/resources/mit8_223iap17_lec3)
+[PLA and Lagrangian Workflow (PDF)]({{< baseurl >}}/resources/mit8_223iap17_lec3)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -185,7 +185,7 @@ Parmetric resonance, Kapitza
 15
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Introduction to Hamiltonian Mechanics (PDF)]({{< baseurl >}}/resources/mit8_223iap17_lec15)
+[Introduction to Hamiltonian Mechanics (PDF)]({{< baseurl >}}/resources/mit8_223iap17_lec15)
 {{< tdclose >}}
 {{< tdopen >}}
  
