@@ -9,6 +9,7 @@ image_metadata:
     class have to build a small trebuchet demonstrate that it works.
   credit: Image by MIT OpenCourseWare.
   image-alt: Illustration of a counterweight trebuchet.
+parent_uid: 12a3271f-7240-23ef-3864-5a1489d47d44
 resourcetype: Image
 title: 8.223iap17_image.jpg
 uid: 77de3c1e-7e4f-7d96-7b90-04601f81036b
